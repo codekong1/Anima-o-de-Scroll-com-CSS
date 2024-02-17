@@ -1,0 +1,8 @@
+@media (max-width: 375px){
+    .background{
+        height: 362vh;
+    }
+    section {
+        width: 100%;
+    }
+}
